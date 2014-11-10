@@ -1,0 +1,249 @@
+<!doctype html>
+<head>
+<title> REAL Connections Home Page</title>
+<style>
+#main-menu .nav-bar { list-style:none;}
+#main-menu .nav-bar li { display:inline; padding: 0 10px; }
+
+#main-menu .nav-bar li a {
+
+padding-left: 25px; 
+/*padding-bottom: 50px; */
+text-decoration: none;
+text-transform: uppercase;
+color: #333;
+text-shadow: 1px 1px 1px #ccc;
+}
+
+
+#main-menu .nav-bar a:hover {
+    color: #80D62F;
+    background-color: #FFF;
+} 
+
+
+* {margin: 0; padding: 0;}
+ 
+ 
+#container {
+    width: 1000px;
+    overflow: hidden;
+    margin: 0px auto;
+    background: white;
+}
+
+/*photobanner*/
+ 
+.photobanner {
+    height: 133px;
+    width: 3550px;
+    margin-bottom: 80px;
+}
+
+/*keyframe animations*/
+.first {
+    -webkit-animation: bannermove 30s linear infinite;
+       -moz-animation: bannermove 30s linear infinite;
+        -ms-animation: bannermove 30s linear infinite;
+         -o-animation: bannermove 30s linear infinite;
+            animation: bannermove 30s linear infinite;
+}
+ 
+@keyframes "bannermove" {
+ 0% {
+    margin-left: 0px;
+ }
+ 100% {
+    margin-left: -2125px;
+ }
+ 
+}
+ 
+@-moz-keyframes bannermove {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: -2125px;
+ }
+ 
+}
+ 
+@-webkit-keyframes "bannermove" {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: -2125px;
+ }
+ 
+}
+ 
+@-ms-keyframes "bannermove" {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: -2125px;
+ }
+ 
+}
+ 
+@-o-keyframes "bannermove" {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: -2125px;
+ }
+ 
+}
+
+.photobanner {
+    height: 233px;
+    width: 3550px;
+    margin-bottom: 40px;
+}
+ 
+.photobanner img {
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+ 
+.photobanner img:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    cursor: pointer;
+ 
+    -webkit-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+    box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+}
+
+
+
+.myButton {
+	-moz-box-shadow: 0px 0px 0px 0px #3dc21b;
+	-webkit-box-shadow: 0px 0px 0px 0px #3dc21b;
+	box-shadow: 0px 0px 0px 0px #3dc21b;
+	background-color:#4ead49;
+	-moz-border-radius:26px;
+	-webkit-border-radius:26px;
+	border-radius:26px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:24px;
+	font-weight:bold;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 2px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#6cb345;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton2 {
+	-moz-box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	-webkit-box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #7f918c), color-stop(1, #6c7c7c));
+	background:-moz-linear-gradient(top, #7f918c 5%, #6c7c7c 100%);
+	background:-webkit-linear-gradient(top, #7f918c 5%, #6c7c7c 100%);
+	background:-o-linear-gradient(top, #7f918c 5%, #6c7c7c 100%);
+	background:-ms-linear-gradient(top, #7f918c 5%, #6c7c7c 100%);
+	background:linear-gradient(to bottom, #7f918c 5%, #6c7c7c 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#7f918c', endColorstr='#6c7c7c',GradientType=0);
+	background-color:#7f918c;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:15px;
+	font-weight:bold;
+	padding:13px 23px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #2b665e;
+	text-align: center;
+}
+.myButton2:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #6c7c7c), color-stop(1, #7f918c));
+	background:-moz-linear-gradient(top, #6c7c7c 5%, #7f918c 100%);
+	background:-webkit-linear-gradient(top, #6c7c7c 5%, #7f918c 100%);
+	background:-o-linear-gradient(top, #6c7c7c 5%, #7f918c 100%);
+	background:-ms-linear-gradient(top, #6c7c7c 5%, #7f918c 100%);
+	background:linear-gradient(to bottom, #6c7c7c 5%, #7f918c 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#6c7c7c', endColorstr='#7f918c',GradientType=0);
+	background-color:#6c7c7c;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+</style>
+</head> 
+<body>
+<nav id="main-menu">
+     <ul class="nav-bar">
+     		<li class="nav-image"><img src="logo.png" alt="Smiley face" height="70" width="160"> </img></li>
+     		<li class="nav-button-home"><a href="/">Home </a></li>
+          <li class="nav-button-about"><a href="/">About </a></li>
+          <li class="nav-button-volunteer"><a href="#">Volunteer</a></li>
+          <li class="nav-button-membership"><a href="#">Membership</a></li>
+          <li class="nav-button-gallery"><a href="#">Gallery</a></li>
+          <li class="nav-button-events"><a href="#">Events</a></li>
+          <li class="nav-button-join"><a href="#">Join</a></li>
+          <li class="nav-button-donate"><a href="#">Donate</a></li>
+     </ul>
+</nav>
+<br>
+<br>
+
+<div id="container">
+    <div class="photobanner">
+        <img class="first" src="logo.png" alt="">
+        <img src="logo.png" alt="">
+      
+    </div>
+</div>
+
+<div style="display:inline-block;padding-left:140px;padding-right:200px;text-shadow: 1px 1px 1px #ccc;text-transform: uppercase;font-size: 20px">
+<a href="#" class="myButton">Join the Village!</a>
+<br><br><br>
+<p> "REAL Connections changed my life! <br> I was so happy that I was able to come in <br> contact with Brandi. She opened <br> my eyes to the wonders of the village!"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Bill (90)
+</p>
+
+</div>
+<div style="display:inline-block;">
+<iframe width="350" height="240" src="//www.youtube.com/embed/Eba6qC5fflQ"frameborder="0" allowfullscreen></iframe>
+</div>
+<br> 
+<br> 
+<br>
+<div style="padding-left:340px">
+<a href="#" class="myButton2">Not Finding What you Need? <br> Contact Us!</a>
+</div>
+
+</body>
+</html> 
