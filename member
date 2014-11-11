@@ -93,56 +93,70 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 style="text-align: center">VOLUNTEER</h2>
+                    <h1 style="text-align: center">Become a Member</h1>
                     <hr class="star-light">
-                    <img class="img-responsive" src="img/volunteer.jpg" alt="">
+                   <p style="text-align: center">Ageless living—at home. Choice. Convenience. Personalized service and assistance.  Social events to stay engaged. Support to optimize wellness and the discovery of new ways to enjoy life. And in times of need, instead of relying on an adult child or asking a favor of someone else, the comfort and security of knowing there is one place to call. These are all aspects of REAL Connections.</p> 
+                    <img class="img-responsive" src="img/donate.jpg" alt="">
                     <div class="intro-text">
                         <span class="skills">
-                           <p>REAL Connections has a vibrant group of volunteers. The energy of REAL Connections is fueled by our ability to match a volunteer with a need or activity which s/he is interested in and passionate about.
-                            </p> 
+
+
+                            <p style="text-align: center"><h1>What are the benefits of a membership?</h1><p>
                             
-                            <div class="col-md-3" style="margin-top: 60px; margin-bottom: 60px">
-                                <p><span class="glyphicon glyphicon-home" style="margin-right: 30px;"></span>Neighbor-To-Neighbor Program</p>
-                                <ul style="font-size: 20px">
-                                <li>Transporation</li>
-                                <li>Chores</li>
-                                <li>Home and Phone Check-ins</li>
-                                <li>House Maintenance</li>
-                                <li>Electronics Assistance</li>
-                                </ul>                 
+                            <div  style="margin-top: 15px; margin-bottom: 15px">
+                                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Single-source for trusted resources</p>  
+                                       <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> Personalized information, referrals and resources via web or telephone </p>      
                             </div>
-                            <div class="col-md-3" style="margin-top: 60px">
-                                <p><span class="glyphicon glyphicon-fire" style="margin-right: 30px;"></span>Events</p>
-                                <ul style="font-size: 20px">
-                                <li>Plan and Host Programs</li>
-                                <li>Teach and lead workshops</li>
-                                </ul>                 
+                            <div  style="margin-top: 15px">
+                                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Case Management / New member consultation</p>     
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> To make the most of your membership dollar; hospital to home transition  </p>          
                             </div>
-                            <div class="col-md-3" style="margin-top: 60px">
-                                <p><span class="glyphicon glyphicon-list-alt" style="margin-right: 30px;"></span>Communications</p>
-                                <ul style="font-size: 20px">
-                                <li>Produce Newsletter</li>
-                                <li>Write Articles</li>
-                                <li>Ambassadorship</li>
-                                </ul>                 
+                            <div  style="margin-top: 15px">
+                                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Quarterly Newsletter</p>  
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> Stay connected to REAL members, news, and activities. </p>         
                             </div>
-                            <div class="col-md-3" style="margin-top: 60px; margin-bottom: 20px">
-                                <p><span class="glyphicon glyphicon-file" style="margin-right: 30px;"></span>Program Administration</p>
-                                <ul style="font-size: 20px">
-                                <li>Database Management</li>
-                                <li>Membership</li>
-                                <li>Newsletter Mailings</li>
-                                </ul>                 
+                            <div  style="margin-top: 15px">
+                                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Personalized follow-up</p>  
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> After accessing services to ensure you are satisfied </p>         
                             </div>
+                            <div  style="margin-top: 15px">
+                                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Social Events and Trips</p>  
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> Take full advantage of programs of interest travel - theater, outings, discussion and interest groups </p>         
+                            </div>
+                            <div  style="margin-top: 15px">
+                                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>General Assistance</p>  
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> With simple tasks, whether changing smoke detector batteries or air conditioning filters to moving furniture and help with gardening </p>         
+                            </div>
+                            <div  style="margin-top: 15px">
+                                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>"Personal Assistant" Type Convenience</p>  
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> Walking the dog, waiting for a repairman, dropping a package at the Post Office or other errands </p>         
+                            </div>
+                            <div  style="margin-top: 15px">
+                                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Transportation</p>  
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> Rides to the doctor, the grocery store, or the airport, or wherever you need to go </p>         
+                            </div>
+                            <div  style="margin-top: 15px">
+                                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Family Caregiver Support</p>  
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> Caregiver resources, arranging or accompanying your family member to medical appointments, support groups </p>         
+                            </div>
+                            <div  style="margin-top: 15px">
+                                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Peace of Mind</p>  
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> For you or a loved one </p>         
+                            </div>
+
 
                         </span>
 
-                    </div>
 
+
+                    </div>
                 </div>
 
-                <span ><p>You don’t have to be a member to volunteer! REAL Connections welcomes volunteers of all ages. We invite organizations and individuals who live or work in the Inland, Pomona and East San Gabriel Valleys to join us in making a difference and giving back to the community.<p></span>  
             </div>
+
+            <hr class="star-light">
+            
+            <p>
         </div>
     </header>
 
@@ -155,15 +169,15 @@
             </div>
             <div class="row">
                 <div class="col-sm-4 portfolio-item">
-                        <img src="img/volunteer2.jpg" class="img-responsive" alt="">
+                        <img src="img/donate1.jpg" class="img-responsive" alt="">
                         <p style="text-align: center; font-style: italic">"I love volunteering!"</p>
                 </div>
                 <div class="col-sm-4 portfolio-item">                   
-                        <img src="img/volunteer2.jpg" class="img-responsive" alt="">
+                        <img src="img/donate3.jpg" class="img-responsive" alt="">
                         <p style="text-align: center; font-style: italic">"ZOMG so siq!"</p>
                 </div>
                 <div class="col-sm-4 portfolio-item">                    
-                        <img src="img/volunteer2.jpg" class="img-responsive" alt="">
+                        <img src="img/donate2.jpg" class="img-responsive" alt="">
                         <p style="text-align: center; font-style: italic">"This is a testimonial!"</p>
                 </div>
         
@@ -176,21 +190,44 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>The Application Process</h2>
+                    <h2>How Do I Become A Member?</h2>
                     <hr class="star-light">
                 </div>
             </div>
-            <div class="row">
-                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Download and Complete the Application</p>
-                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Complete Brief interview</p>
-                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> REAL Connections staff members will schedule an interview with all applicants who seem like a good fit </p>
-                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Pass Background Checks</p> 
-                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> We vet all of our volunteers according to the Department of Justice Background Checks, the National Sex Offender Registry, and personal references
-</p>
-                <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Training</p>
-                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> All volunteer applicants who meet our guidelines will undergo a brief program orientation and training  
-</p>
-<p>For more information, please contact us directly! (909) - 621- 6300</p>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>Complete the following form and a representative from Real Connections will be reaching out to you shortly!</p>
+                        <div class="input-group input-group-md">
+                          <span class="input-group-addon">First Name</span>
+                          <input type="text" class="form-control" >
+                        </div>
+                        <div class="input-group input-group-md">
+                          <span class="input-group-addon">Last Name</span>
+                          <input type="text" class="form-control" >
+                        </div>
+                        <div class="input-group input-group-md">
+                          <span class="input-group-addon">Phone Number</span>
+                          <input type="text" class="form-control" >
+                        </div>
+                        <div class="input-group input-group-md">
+                          <span class="input-group-addon">Email</span>
+                          <input type="text" class="form-control" >
+                        </div>
+                        <button type="submit" class="btn btn-default">Submit</button>
+                    </div>
+                    <div class="col-sm-6">
+                        <h3>Membership Dues</h3>
+                        <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;">Members have the option to pay dues either annually or monthly:</p>
+                        <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Individual Membership</p>
+                            <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> $570/yr or $54.50/month; save $84 by paying the full year membership when you join!   </p>
+                        <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Household Membership </p>
+                        <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> $780/yr or $75/month; save $120 by paying the full year membership when you join! </p>
+                        
+                        <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Additional Member (if more than two people)</p> 
+                        <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> $180/yr or  $15/month extra</p>
+                        <h3>Payment Methods</h3>
+                        <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> Membership dues may be paid by check or credit card </p>
+                    </div> 
             </div>
         </div>
     </section>
@@ -200,14 +237,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 >The Application</h2>
+                    <h3>A Special Thank You to Our Supportive Founding and Community Partners</h3>
                     <hr class="star-primary">
                 </div>
             </div>
             <div class="row">
-
-                    <a href="#membership"><h3>Download</h3></a>
-                
+                    <img  src="img/IVHP_new_logo.jpg" alt="">
+                    <img  src="img/logo_archstone.jpg" alt="">
+                    <img  src="img/logo_pomona.jpg" alt="">
+                    <p style="font-size: 15px">Claremont Community School of Music - Claremont Manor - Claremont Place - Communition Commections: Transportation Reimbursement Program - The Enrichment Center Adult Day Program - Foothill Communities RSVP - Oakmont of San Antonio Heights - VNA Hospice and Palliative Care of Southern California - West End Family Counseling Services</p>
             </div>
         </div>
     </section>
@@ -218,6 +256,7 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
+                        <p>Claremont Senior Services</p>
                         <p>141 Spring Street</p><p>Claremont, CA 91711</p><p> UNITED STATES</p>
                         <p>(909) - 621 - 6300</p>
                     </div>
@@ -242,10 +281,8 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>Thank you to our sponsors:</h3>
-                        <p style="text-align: center"><img src="img/IVHP_new_logo.jpg" alt=""></p>
-                        <p style="text-align: center"><img src="img/logo_archstone.jpg"></p>
-                        <p style="text-align: center"><img src="img/logo_pomona.jpg"  alt=""></p>
+                        <h3>Thank you to our generous sponsors</h3>
+                        
 
                     </div>
                 </div>

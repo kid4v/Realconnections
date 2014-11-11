@@ -93,24 +93,46 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p style="font-style: italic; font-size: 30px; text-align: center; margin-bottom: 30px">REAL Connections is a member-driven resource network offering trusted information, valued services, and enriching relationships that enable individuals to live and age well in their homes and communities.</p>
-                    <img class="img-responsive" src="img/landing.png" alt="">
+                    <h1 style="text-align: center">Donate</h1>
+                    <hr class="star-light">
+                   <p style="text-align: center">REAL Connections welcomes your support. Help us thrive and grow as an integral part of our community.
+                    Your gift, large or small, is appreciated.</p> 
+                    <img class="img-responsive" src="img/donate.jpg" alt="">
                     <div class="intro-text">
                         <span class="skills">
+
+
+                            <p style="text-align: center"><h1>What can my donations go toward?</h1><p>
                             
-                            
-                            <div class="col-md-8" style="margin-top: 60px">
-                                <p><span class="glyphicon glyphicon-home" style="margin-right: 30px;"></span>Village style approach to aging at home</p>
-                                <p><span class="glyphicon glyphicon-fullscreen" style="margin-right: 30px"> </span>Community members connect with the elderly</p>
-                                <p><span class="glyphicon glyphicon-road" style="margin-right: 30px"></span>Serving Inland Empire, Pomona, and San Gabriel Valleys</p>
+                            <div  style="margin-top: 15px; margin-bottom: 15px">
+                                <p><span class="glyphicon glyphicon-cloud-upload" style="margin-right: 30px;"></span>In honor or memory of someone</p>  
+                                       <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> Donations can be made in the name of a loved one. </p>      
                             </div>
-                            <div class="col-md-4">
-                                <img class="img-responsive" src="img/map.png" alt="">
+                            <div  style="margin-top: 15px">
+                                <p><span class="glyphicon glyphicon-wrench" style="margin-right: 30px;"></span>For the Supported Membership Fund</p>     
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> The Supported Membership Fund provides financial assistance and scholarships for community members wishing to join the Real Connections village. </p>
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> $50 pays for a month of individual membership. </p>
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> $75 pays for a month of household membership. </p>
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> $570 pays for a year of individual membership. </p> 
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> $780 pays for a year of household membership. </p>          
                             </div>
+                            <div  style="margin-top: 15px">
+                                <p><span class="glyphicon glyphicon-list-alt" style="margin-right: 30px;"></span>Help With General Costs</p>  
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> Real Connections is a non-profit organization, but still needs help financing events, activities, and operating expenses.  </p>              
+                            </div>
+
                         </span>
+
+
+
                     </div>
                 </div>
+
             </div>
+
+            <hr class="star-light">
+            
+            <p>
         </div>
     </header>
 
@@ -118,16 +140,20 @@
     <section id="portfolio">
         <div class="container">
             <div class="row">
+                <div class="col-lg-12 text-center">
+                </div>
+            </div>
+            <div class="row">
                 <div class="col-sm-4 portfolio-item">
-                        <img src="img/portfolio/lady1.jpg" class="img-responsive" alt="">
-                        <p style="text-align: center; font-style: italic">"I love real connections!"</p>
+                        <img src="img/donate1.jpg" class="img-responsive" alt="">
+                        <p style="text-align: center; font-style: italic">"I love volunteering!"</p>
                 </div>
                 <div class="col-sm-4 portfolio-item">                   
-                        <img src="img/portfolio/lady1.jpg" class="img-responsive" alt="">
+                        <img src="img/donate3.jpg" class="img-responsive" alt="">
                         <p style="text-align: center; font-style: italic">"ZOMG so siq!"</p>
                 </div>
                 <div class="col-sm-4 portfolio-item">                    
-                        <img src="img/portfolio/lady1.jpg" class="img-responsive" alt="">
+                        <img src="img/donate2.jpg" class="img-responsive" alt="">
                         <p style="text-align: center; font-style: italic">"This is a testimonial!"</p>
                 </div>
         
@@ -136,33 +162,31 @@
     </section>
 
     <!-- About Section -->
-    <section class="success" id="about">
+    <section class="success">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>About</h2>
+                    <h2>How do I make a donation?</h2>
                     <hr class="star-light">
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-6">
-                    <p style="color: #2c3e50;">The Real Connections village is designed to make your life less complicated and more fulfilling. It’s about neighbors helping neighbors and meaningful volunteer and community connections.</p>
-                    <p>As a member, you will have access to:</p>
-                        <ul>
-                            <li>Pre-screened service providers</li>
-                            <li>Special partnerships with community healthcare providers</li>
-                            <li>A network of social and informational service</li>
-                        </ul>
-                    <p>Let us help you take the guesswork out of finding solutions to life’s challenges.</p>
-                </div>
-                <div class="col-md-6" style="text-align: center">
-                    <p style="color: #2c3e50;">For more information:</p>
-                    <p><span class="glyphicon glyphicon-earphone" style="margin-right: 30px;"></span>Call us at REAL Connections: (909) 621-6300</p>
-                    <p><span class="glyphicon glyphicon-envelope" style="margin-right: 30px;"></span>Contact us by email</p>
-                    <p><span class="glyphicon glyphicon-film" style="margin-right: 30px;"></span>Attend upcoming social and informational events in your community</p> 
-                    <p><span class="glyphicon glyphicon-list-alt" style="margin-right: 30px;"></span>Sign up to receive our e-newsletter, REAL News.</p>
-                </div>
-                
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Online Payment</p>
+                            <p><img  src="img/amazon.jpg" alt="">
+                            <img  src="img/paypal.png" alt=""></p>
+                        <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Check or Credit Card </p>
+                        <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;">Please fill out our <a>Donation Form</a> and mail to:</p>
+                        <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"><p style="font-size: 20px; padding-left: 20px; color: #2c3e50;">Claremont Senior Services</p>
+                                <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;">141 Spring Street</p><p style="font-size: 20px; padding-left: 20px; color: #2c3e50;">Claremont, CA 91711</p><p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> UNITED STATES</p></p>
+                        <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Cash, stocks, or mutual funds</p> 
+                        <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> Please contact us directly! (909) - 621- 6300</p>
+                        <p><span class="glyphicon glyphicon-cog" style="margin-right: 30px;"></span>Furniture, supplies, and equipment</p>
+                        <p style="font-size: 20px; padding-left: 20px; color: #2c3e50;"> Please contact us directly! (909) - 621- 6300</p>
+                    </div>   
+                    <div class="col-sm-6">
+                        <img style="margin-top: 90px" class="img-responsive" src="img/donate4.png" alt="">
+                    </div>
 
             </div>
         </div>
@@ -173,23 +197,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 >Get Involved</h2>
+                    <h3>A Special Thank You to Our Supportive Founding and Community Partners</h3>
                     <hr class="star-primary">
                 </div>
             </div>
             <div class="row">
-                <div class="footer-col col-md-4">
-                    <a href="#membership"><h3>Become a Member</h3></a>
-                </div>
-                <div class="footer-col col-md-4">
-                    <a href="#volunteer"><h3>Volunteer</h3></a>
-                </div>
-                <div class="footer-col col-md-4">
-                    <a href="#donate"><h3>Donate</h3></a>
-                </div>
-            </div>
-            <div class="row">
-                <iframe width="350" height="240" src="//www.youtube.com/embed/Eba6qC5fflQ" frameborder="0" allowfullscreen></iframe>
+                    <img  src="img/IVHP_new_logo.jpg" alt="">
+                    <img  src="img/logo_archstone.jpg" alt="">
+                    <img  src="img/logo_pomona.jpg" alt="">
+                    <p style="font-size: 15px">Claremont Community School of Music - Claremont Manor - Claremont Place - Communition Commections: Transportation Reimbursement Program - The Enrichment Center Adult Day Program - Foothill Communities RSVP - Oakmont of San Antonio Heights - VNA Hospice and Palliative Care of Southern California - West End Family Counseling Services</p>
             </div>
         </div>
     </section>
@@ -200,6 +216,7 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
+                        <p>Claremont Senior Services</p>
                         <p>141 Spring Street</p><p>Claremont, CA 91711</p><p> UNITED STATES</p>
                         <p>(909) - 621 - 6300</p>
                     </div>
@@ -224,10 +241,8 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>Thank you to our sponsors:</h3>
-                        <p style="text-align: center"><img src="img/IVHP_new_logo.jpg" alt=""></p>
-                        <p style="text-align: center"><img src="img/logo_archstone.jpg"></p>
-                        <p style="text-align: center"><img src="img/logo_pomona.jpg"  alt=""></p>
+                        <h3>Thank you to our generous sponsors</h3>
+                        
 
                     </div>
                 </div>
