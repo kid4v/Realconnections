@@ -3,11 +3,11 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-
+ <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
 body {
     overflow-x: hidden;
-    font-family: Georgia;
-    font-weight: 500px;
+    font-family: Lato, sans-serif;
+    font-weight: 400px;
 }
 
 p {
@@ -35,7 +35,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Georgia;
+    font-family: Lato, sans-serif;
     font-weight: 400;
 }
 
@@ -150,9 +150,8 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    /*font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
-    font-family: Georgia;
-    font-weight: 500;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
 
 }
 
