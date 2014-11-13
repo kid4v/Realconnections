@@ -3,11 +3,11 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
- <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900|Rock+Salt|Homemade+Apple); 
 body {
     overflow-x: hidden;
-    font-family: Lato, sans-serif;
-    font-weight: 400px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
 }
 
 p {
@@ -29,15 +29,8 @@ a.active {
 
 
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: Lato, sans-serif;
-    font-weight: 400;
-}
+h1, h2 {font-family: 'Rock Salt', cursive;}
+h3 {font-family: 'Lato', sans-serif;}
 
 hr.star-light,
 hr.star-primary {
@@ -66,15 +59,15 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #18bc9c;
+    background-color: #50A162;
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    border-color: #106022;
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
+    color: #106022;
     background-color: #fff;
 }
 
@@ -85,7 +78,7 @@ hr.star-primary:after {
 header {
     text-align: left;
     color: #fff;
-    background: #18bc9c;
+    background: #50A162;
 }
 
 header .container {
@@ -111,7 +104,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 200px;
+        padding-top: 180px;
         padding-bottom: 100px;
     }
 
@@ -126,7 +119,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
+        padding: 20px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -150,13 +143,13 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Lato, sans-serif;
+    font-family: 'Lato', sans-serif;
     font-weight: 400;
 
 }
 
 .navbar a:focus {
-    outline: 0;
+    outline: 1;
 }
 
 .navbar .navbar-nav {
@@ -171,7 +164,6 @@ header .intro-text .skills {
 .navbar-inverse {
     border: 0;
     background-color: white;
-    
 }
 
 .navbar-default .navbar-brand {
@@ -193,7 +185,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: #50A162;
 }
 
 @media(max-width:767px) {
@@ -277,7 +269,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #50A162;
     background: #fff;
 }
 
@@ -330,7 +322,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #50A162;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -346,17 +338,18 @@ footer h3 {
 }
 
 footer .footer-above {
+    text-transform: uppercase;
     padding-top: 50px;
-    background-color: #2c3e50;
+    background-color: #106022;
 }
 
 footer .footer-col {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #00400E;
 }
 
 .btn-social {
@@ -440,7 +433,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #2c3e50;
+    background-color: #106022;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -450,7 +443,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #2c3e50;
+    background-color: #106022;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
