@@ -65,7 +65,10 @@ table {
 .fc-unthemed .fc-today {
 	background: #fcf8e3;
 	color: #E42F54;
-	font-weight: bold;
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+
 }
 
 .fc-highlight { /* when user is selecting cells */
