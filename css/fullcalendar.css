@@ -64,10 +64,10 @@ table {
 
 .fc-unthemed .fc-today {
 	background: #fcf8e3;
-	color: #E42F54;
+	color: #D4746A;
 	text-transform: uppercase;
 	font-family: 'Lato', sans-serif;
-	font-weight: 300;
+	font-weight: bold;
 
 }
 
@@ -707,7 +707,7 @@ a.fc-more:hover {
 }
 
 .fc-day-number.fc-other-month {
-	color: #18bc9c; /* MODIFIED FOR REAL CONNECTIONS */
+	color: #81C18F; /* MODIFIED FOR REAL CONNECTIONS */
 /*	opacity: 0.3;
 	filter: alpha(opacity=30); /* for IE */
 	/* opacity with small font can sometimes look too faded
