@@ -200,14 +200,15 @@
     <!-- For the calendar -->
     <link rel='stylesheet' href='css/fullcalendar.css' />
     <script src='http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.3/moment.js'></script>
-    <script src='http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.1.1/fullcalendar.min.js'></script>
-    <script src='http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.1.1/gcal.js'></script>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.3/fullcalendar.min.js'></script>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.3/gcal.js'></script>
 
     <script>
         $(document).ready(function() {
 
             // page is now ready, initialize the calendar...
             $('#calendar').fullCalendar({
+                googleCalendarApiKey: 'AIzaSyBFzARHvf9tjpNT1UsMN5D6OP-i8njQl9Y',
                 events: 'https://www.google.com/calendar/feeds/eblatter%40g.hmc.edu/public/basic',
                 eventColor: '#106022'
             });
