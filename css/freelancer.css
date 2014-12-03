@@ -42,7 +42,7 @@ h3, h4, h5 {
 }
 h6 {
     font-family: 'Lato', sans-serif;
-    font-weight: 100;
+    font-weight: 400;
     font-size: 3em;
     display: inline;
 }
@@ -470,4 +470,8 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+#bs-example-navbar-collapse-1 h2 {
+    padding-left: 10px;
 }
