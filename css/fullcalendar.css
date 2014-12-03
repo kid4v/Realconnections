@@ -4,7 +4,6 @@
  * (c) 2013 Adam Shaw
  */
 
-
 .fc {
 	direction: ltr;
 	text-align: left;
@@ -218,7 +217,10 @@ table {
 
 .fc-button-group {
 	display: inline-block;
-	margin:2em;
+	margin-left:2em;
+	margin-right:0px;
+	margin-top:2em;
+	margin-bottom:2em;
 }
 
 /*
