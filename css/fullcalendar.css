@@ -122,14 +122,16 @@ table {
 	box-sizing: border-box;
 
 	/* dimensions */
-	margin: 0;
+	margin: 2em;
 	height: 2.1em;
-	padding: 0 .6em;
+	padding: 0 .8em;
+	margin-right: 0.5em;
 
 	/* text & cursor */
 	font-size: 1em; /* normalize */
 	white-space: nowrap;
 	cursor: pointer;
+	text-transform: uppercase;
 }
 
 /* Firefox has an annoying inner border */
@@ -153,7 +155,7 @@ table {
 
 .fc button .fc-icon { /* non-theme */
 	position: relative;
-	top: .05em; /* seems to be a good adjustment across browsers */
+	top: 0.1em;
 	margin: 0 .1em;
 }
 	
@@ -206,7 +208,7 @@ table {
 	cursor: default;
 	background-image: none;
 	opacity: 0.65;
-	filter: alpha(opacity=65);
+	filter: alpha(opacity=65); /*FOR IE*/
 	box-shadow: none;
 }
 
@@ -216,6 +218,7 @@ table {
 
 .fc-button-group {
 	display: inline-block;
+	margin:2em;
 }
 
 /*
