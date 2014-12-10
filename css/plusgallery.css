@@ -335,8 +335,8 @@ background-color: #383838;
 	-ms-transition: opacity 0.4s ease-out;
 	-o-transition: opacity 0.4s ease-out;
 	transition: opacity 0.4s ease-out;
-	vertical-align: middle;
-	margin-bottom: 2em;
+	vertical-align: bottom;
+	margin-bottom: 6em;
 }
 
 .pgzoomimg.active {
