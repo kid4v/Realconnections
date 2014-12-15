@@ -210,8 +210,10 @@
 
             // page is now ready, initialize the calendar...
             $('#calendar').fullCalendar({
-                googleCalendarApiKey: 'AIzaSyBFzARHvf9tjpNT1UsMN5D6OP-i8njQl9Y',
-                events: 'https://www.google.com/calendar/feeds/eblatter%40g.hmc.edu/public/basic',
+                googleCalendarApiKey: 'AIzaSyDlLJ64T-Zb8VnEbloEDKYWtxaGsCyiV2w',
+                events: {
+                    googleCalendarId: 'vtuera5h155aqafrq16bk4l2tk@group.calendar.google.com'
+                },
                 eventColor: '#106022'
             });
         });
