@@ -10,6 +10,19 @@ body {
     font-weight: 400;
 }
 
+header .container {
+    padding-bottom: 15px !important;
+}
+
+section {
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+
+#portfolio .portfolio-item {
+    margin: 0 !important;
+}
+
 p {
     font-size: 25px;
 }
