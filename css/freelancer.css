@@ -3,11 +3,24 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900|Rock+Salt|Oswald:400,700); 
 body {
     overflow-x: hidden;
-    font-family: Georgia;
-    font-weight: 500px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+header .container {
+    padding-bottom: 15px !important;
+}
+
+section {
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+
+#portfolio .portfolio-item {
+    margin: 0 !important;
 }
 
 p {
@@ -29,14 +42,27 @@ a.active {
 
 
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: Georgia;
+h1, h2 {
+    font-family: 'Oswald', sans-serif;
     font-weight: 400;
+    font-size: 4em;
+    display: inline;
+}
+h3, h4, h5 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 1.5em;
+}
+h6 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 3em;
+    display: inline;
+}
+p {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 1em;
 }
 
 hr.star-light,
@@ -66,15 +92,15 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #18bc9c;
+    background-color: #50A162;
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    border-color: #106022;
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
+    color: #106022;
     background-color: #fff;
 }
 
@@ -83,9 +109,9 @@ hr.star-primary:after {
 }
 
 header {
-    text-align: left;
+    text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #50A162;
 }
 
 header .container {
@@ -95,7 +121,7 @@ header .container {
 
 header img {
     display: block;
-    margin: 0 auto 20px;
+    /*margin: 0 auto 20px;*/
 }
 
 header .intro-text .name {
@@ -112,7 +138,7 @@ header .intro-text .skills {
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
-        padding-bottom: 100px;
+        padding-bottom: 25px;
     }
 
     header .intro-text .name {
@@ -126,7 +152,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
+        padding: 20px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -149,15 +175,13 @@ header .intro-text .skills {
 }
 
 .navbar {
-    text-transform: uppercase;
-    /*font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
-    font-family: Georgia;
-    font-weight: 500;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
 
 }
 
 .navbar a:focus {
-    outline: 0;
+    outline: 1;
 }
 
 .navbar .navbar-nav {
@@ -172,7 +196,6 @@ header .intro-text .skills {
 .navbar-inverse {
     border: 0;
     background-color: white;
-    
 }
 
 .navbar-default .navbar-brand {
@@ -181,6 +204,8 @@ color: black;
 
 .navbar-default .navbar-nav>li>a {
 color: black;
+margin-top: 24px;
+
 }
 
 section {
@@ -194,7 +219,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: #50A162;
 }
 
 @media(max-width:767px) {
@@ -224,7 +249,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(24,188,156,.9);
+    background: #50a162;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -278,7 +303,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #fff;
     background: #fff;
 }
 
@@ -331,7 +356,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #50A162;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -347,24 +372,26 @@ footer h3 {
 }
 
 footer .footer-above {
+    text-transform: uppercase;
     padding-top: 50px;
-    background-color: #2c3e50;
+    background-color: #106022;
 }
 
 footer .footer-col {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #00400E;
 }
 
 .btn-social {
+    margin-top: -10px;
     display: inline-block;
     width: 50px;
     height: 50px;
-    border: 2px solid #fff;
+    border: 1px solid #fff;
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
@@ -416,6 +443,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
+
 }
 
 .portfolio-modal .modal-content .item-details {
@@ -441,7 +469,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #2c3e50;
+    background-color: #106022;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -451,8 +479,12 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #2c3e50;
+    background-color: #106022;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+#bs-example-navbar-collapse-1 h2 {
+    padding-left: 10px;
 }
